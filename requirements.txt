@@ -1,0 +1,5 @@
+PyPDF2==3.0.1
+pytesseract==0.3.10
+Pillow==9.5.0
+PyMuPDF==1.21.1
+# tkinter通常是Python标准库的一部分，不需要额外安装 
